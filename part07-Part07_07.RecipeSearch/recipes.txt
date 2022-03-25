@@ -1,0 +1,33 @@
+Pancake dough
+60
+milk
+egg
+flour
+sugar
+salt
+butter
+
+Meatballs
+20
+ground meat
+egg
+breadcrumbs
+
+Tofu rolls
+30
+tofu
+rice
+water
+carrot
+cucumber
+avocado
+wasabi
+
+Focaccia
+90
+olive oil
+yeast
+water
+flour
+salt and pepper
+fresh herbs
